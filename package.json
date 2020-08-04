@@ -1,0 +1,32 @@
+{
+  "name": "js-functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jemnon/js-functions.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jemnon/js-functions/issues"
+  },
+  "homepage": "https://github.com/jemnon/js-functions#readme",
+  "dependencies": {
+    "@babel/core": "^7.11.0",
+    "@babel/preset-env": "^7.11.0",
+    "@babel/preset-typescript": "^7.10.4",
+    "@types/jest": "^26.0.8",
+    "babel-jest": "^26.2.2",
+    "prettier": "^2.0.5",
+    "typescript": "^3.9.7"
+  },
+  "devDependencies": {
+    "jest": "^26.2.2",
+    "ts-jest": "^26.1.4"
+  }
+}
